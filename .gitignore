@@ -1,0 +1,5 @@
+# Ignore all 'Project Backups' folders recursively
+**/Project Backups/
+
+# Ignore all .workspace files recursively
+**/*.workspace
